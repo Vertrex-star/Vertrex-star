@@ -1,6 +1,6 @@
 <h1>Hi, I'm Paul 👋</h1>
 
-**Electronics & Electrical Engineering @ UCL** — PCB design, embedded firmware and FPGAs.
+**Electronics & Electrical Engineering @ UCL** — PCB design, embedded firmware and FPGAs. I like to play chess and poker in my free time. 
 
 I have been designing boards for about 3 years now, everything from a Battery Management System for an exoskeleton startup to an NFC business card that plays Flappy Bird. Some of my work is up on [hackster.io/Vertrex](https://hackster.io/Vertrex).
 
@@ -17,6 +17,7 @@ I have been designing boards for about 3 years now, everything from a Battery Ma
 
 - A soft core processor on the Altera Cyclone IV — learning VHDL, RTL design and all the fun that comes with clock-domain crossing and static timing analysis
 - A new NFC business card powered by an STM32 which can play flappy bird on a custom 8x8 Led Matrix.
+- Reading a book on operating systems covering concurrency, persistence and virtualisation to better understand RTOS and embedded systems. 
   
 ## 📌 Featured projects
 
