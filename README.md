@@ -1,4 +1,3 @@
-<h1>Hi, I'm Paul 👋</h1>
 
 **Electronics & Electrical Engineering @ UCL** — PCB design, embedded firmware and FPGAs. I like to play chess and poker in my free time. 
 
