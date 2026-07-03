@@ -2,7 +2,7 @@
 
 **Electronics & Electrical Engineering @ UCL** — PCB design, embedded firmware and FPGAs.
 
-Been designing boards for about 3 years now, everything from a Battery Management System for an exoskeleton startup to an NFC business card that plays Flappy Bird. Some of my work is up on [hackster.io/Vertrex](https://hackster.io/Vertrex).
+I have been designing boards for about 3 years now, everything from a Battery Management System for an exoskeleton startup to an NFC business card that plays Flappy Bird. Some of my work is up on [hackster.io/Vertrex](https://hackster.io/Vertrex).
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -16,18 +16,23 @@ Been designing boards for about 3 years now, everything from a Battery Managemen
 ## 🔨 Currently working on
 
 - A soft core processor on the Altera Cyclone IV — learning VHDL, RTL design and all the fun that comes with clock-domain crossing and static timing analysis
-- Electrical engineering for the UCL Rover team (schematics, BLDC motor driver firmware, production PCBs)
-
+- A new NFC business card powered by an STM32 which can play flappy bird on a custom 8x8 Led Matrix.
+  
 ## 📌 Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
 | **BMS for Hippos Exoskeletons** | Redesigned their Battery Management System — 80% smaller PCB with added protection features. Also did the MCU/IMU boards, overall hardware topology and IMU firmware. | KiCAD, ESP-IDF, embedded C |
 | **Flipper Zero reverse engineering** | Two months and ~80 pages of documentation covering superheterodyne receivers, FM/AM/IQ modulation, SDR principles and the STM32 at its core. Learned a lot about EMI, impedance matching and why 4–6 layer boards exist. | STM32, SDR |
-| **Runaway alarm clock — HackLDN 2026** | 24h hackathon build: an alarm clock on wheels that drives off when it rings so you have to chase it. Ultrasonic obstacle avoidance + Android app for setting alarms. | Arduino Uno Q, C++, Android Studio |
+| **[UCL Combat Robotics — Team Artemis](https://www.hackster.io/Vertrex/combat-robotics-team-artemis-b70139)** | PCB for our antweight combat robot (150g, 100mm cube limit). Six-layer stackup with dedicated power/ground planes around an ESP32-MINI-1, kept compact but still hand-solderable with 0805 parts. | ESP32, KiCAD |
+| **[Runaway alarm clock — HackLDN 2026](https://www.hackster.io/Vertrex/runaway-hackldn-583737)** | 24h hackathon build: an alarm clock on wheels that drives off when it rings so you have to chase it. Ultrasonic obstacle avoidance + Android app for setting alarms. | Arduino Uno Q, C++, Android Studio |
 | **NFC/PCB business card** | Built for a fintech company — NT3H1101 NFC chip + STM32 running Flappy Bird on a card-sized board. | STM32, KiCAD |
 | **Custom Zynq 7020 dev board** | Schematics for a board around AMD's Zynq 7020 (ARM core + FPGA on one chip). | FPGA, KiCAD |
-| **RC plane + 5-axis robot arm** | Custom transmitter/receiver boards with nRF24L01, and a 3D printed robot arm with torque analysis done in CAD before printing. | Arduino, Fusion 360 |
+| **[How to make an Arduino](https://www.hackster.io/Vertrex/how-to-make-an-arduino-8a2955)** | Built a DIY Arduino from scratch around a bare ATmega328-PU — burning the bootloader, getting the FT232R talking to the chip, and writing up a full guide on how it all works. | ATmega328, FT232R |
+| **[Bluetooth RC car [V2]](https://www.hackster.io/Vertrex/bluetooth-arduino-car-project-v2-76ddb3)** | Second iteration of my Bluetooth-controlled RC car with a proper 3D printed chassis, transistor-based motor driver circuit and HC-05 control from a smartphone. | Arduino, HC-05, 3D printing |
+| **[RC plane](https://www.hackster.io/Vertrex/rc-plane-project-9ee7b1) + 5-axis robot arm** | Custom transmitter/receiver boards with nRF24L01, and a 3D printed robot arm with torque analysis done in CAD before printing. | Arduino, Fusion 360 |
+
+Always happy to talk hardware, PCBs or FPGA stuff — feel free to reach out.
 
 ## 🛠️ Tools I use
 
@@ -35,13 +40,6 @@ Been designing boards for about 3 years now, everything from a Battery Managemen
 - **Firmware:** C, C++, embedded C, ESP-IDF, STM32
 - **FPGA:** VHDL, learning SystemVerilog — Quartus Prime, ModelSim, GTKWave
 - **CAD:** Fusion 360
-
-## 📊 GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-</p>
 
 ## 📫 Get in touch
 
