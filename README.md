@@ -11,10 +11,11 @@ I have been designing boards for about 3 years now, everything from a Battery Ma
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-F57C00?style=for-the-badge&logo=autodesk&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-1E8449?style=for-the-badge&logo=v&logoColor=white)
 
 ## 🔨 Currently working on
 
-- A soft core processor on the Altera Cyclone IV — learning VHDL, RTL design and all the fun that comes with clock-domain crossing and static timing analysis
+- A soft core processor on the Altera Cyclone IV — learning VHDL and Verilog, RTL design and all the fun that comes with clock-domain crossing and static timing analysis
 - A new NFC business card powered by an STM32 which can play flappy bird on a custom 8x8 Led Matrix.
 - Reading a book on operating systems covering concurrency, persistence and virtualisation to better understand RTOS and embedded systems. 
   
