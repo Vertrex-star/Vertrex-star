@@ -1,5 +1,5 @@
 
-**Electronics & Electrical Engineering @ UCL** — PCB design, embedded firmware and FPGAs. I like to play chess and poker in my free time. 
+**Electronics & Electrical Engineering @ UCL** — PCB design, embedded firmware and FPGAs. I like to play chess and poker in my free time :)
 
 I have been designing boards for about 3 years now, everything from a Battery Management System for an exoskeleton startup to an NFC business card that plays Flappy Bird. Some of my work is up on [hackster.io/Vertrex](https://hackster.io/Vertrex).
 
