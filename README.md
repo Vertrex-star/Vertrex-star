@@ -15,8 +15,9 @@ I have been designing boards for about 3 years now, everything from a Battery Ma
 
 ## 🔨 Currently working on
 
-- A soft core processor on the Altera Cyclone IV — learning VHDL and Verilog, RTL design and all the fun that comes with clock-domain crossing and static timing analysis
+- A soft core processor on the Altera Cyclone IV — learning VHDL and Verilog and RTL design.
 - A new NFC business card powered by an STM32 which can play flappy bird on a custom 8x8 Led Matrix.
+- Trading project in C++ (Not sure what exactly yet)
 - Reading a book on operating systems covering concurrency, persistence and virtualisation to better understand RTOS and embedded systems. 
   
 ## 📌 Featured projects
