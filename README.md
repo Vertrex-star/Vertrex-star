@@ -8,14 +8,13 @@ I have been designing boards for about 3 years now, everything from a Battery Ma
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Espressif](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-F57C00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-1E8449?style=for-the-badge&logo=v&logoColor=white)
 
 ## 🔨 Currently working on
 
-- A soft core processor on the Altera Cyclone IV — learning VHDL and Verilog and RTL design.
+- A soft core processor on the Altera Cyclone IV — learning Verilog and RTL design.
 - A new NFC business card powered by an STM32 which can play flappy bird on a custom 8x8 Led Matrix.
 - Trading project in C++ (Not sure what exactly yet)
 - Reading a book on operating systems covering concurrency, persistence and virtualisation to better understand RTOS and embedded systems. 
