@@ -16,7 +16,7 @@ I have been designing boards for about 3 years now, everything from a Battery Ma
 
 - A soft core processor on the Altera Cyclone IV — learning Verilog and RTL design.
 - A new NFC business card powered by an STM32 which can play flappy bird on a custom 8x8 Led Matrix.
-- Trading project in C++ (Not sure what exactly yet)
+- Trading project using C++ for synthetic market data and to generate an order book. Will then implement the order book generation on an FPGA and add a NIC to process UDP signals. 
 - Reading a book on operating systems covering concurrency, persistence and virtualisation to better understand RTOS and embedded systems. 
   
 ## 📌 Featured projects
