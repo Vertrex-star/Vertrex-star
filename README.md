@@ -39,7 +39,7 @@ Always happy to talk hardware, PCBs or FPGA stuff — feel free to reach out.
 
 - **EDA:** KiCAD, EasyEDA — 3+ years of schematics, layout, footprints
 - **Firmware:** C, C++, embedded C, ESP-IDF, STM32
-- **FPGA:** VHDL, learning SystemVerilog — Quartus Prime, ModelSim, GTKWave
+- **FPGA:** SystemVerilog — Quartus Prime and ModelSim
 - **CAD:** Fusion 360
 
 ## 📫 Get in touch
