@@ -14,10 +14,9 @@ I have been designing boards for about 3 years now, everything from a Battery Ma
 
 ## 🔨 Currently working on
 
-- A soft core processor on the Altera Cyclone IV — learning Verilog and RTL design.
+- A UDP market data feed handler on FPGA; parsing exchange multicast feeds and building the order book directly in hardware for low latency processing.
 - A new NFC business card powered by an STM32 which can play flappy bird on a custom 8x8 Led Matrix.
-- Trading project using C++ for synthetic market data and to generate an order book. Will then implement the order book generation on an FPGA and add a NIC to process UDP signals. 
-- Reading a book on operating systems covering concurrency, persistence and virtualisation to better understand RTOS and embedded systems. 
+- Reading a book on operating systems covering concurrency, persistence and virtualisation to better understand RTOS and embedded systems.
   
 ## 📌 Featured projects
 
@@ -32,6 +31,7 @@ I have been designing boards for about 3 years now, everything from a Battery Ma
 | **[How to make an Arduino](https://www.hackster.io/Vertrex/how-to-make-an-arduino-8a2955)** | Built a DIY Arduino from scratch around a bare ATmega328-PU — burning the bootloader, getting the FT232R talking to the chip, and writing up a full guide on how it all works. | ATmega328, FT232R |
 | **[Bluetooth RC car [V2]](https://www.hackster.io/Vertrex/bluetooth-arduino-car-project-v2-76ddb3)** | Second iteration of my Bluetooth-controlled RC car with a proper 3D printed chassis, transistor-based motor driver circuit and HC-05 control from a smartphone. | Arduino, HC-05, 3D printing |
 | **[RC plane](https://www.hackster.io/Vertrex/rc-plane-project-9ee7b1) + 5-axis robot arm** | Custom transmitter/receiver boards with nRF24L01, and a 3D printed robot arm with torque analysis done in CAD before printing. | Arduino, Fusion 360 |
+| **[Soft-Core Processor — Altera Cyclone IV](https://github.com/Vertrex-star/Microprocessor-basic-ISA)** | Single cycle 8 bit microprocessor with a custom 10 instruction ISA (and/or/add/sub, andi/ori/addi, beq). Built the ALU, register file, instruction memory, control unit, and PC/branch logic from scratch, with self-checking ModelSim testbenches. | Verilog, Quartus Prime, ModelSim |
 
 Always happy to talk hardware, PCBs or FPGA stuff — feel free to reach out.
 
