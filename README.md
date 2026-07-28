@@ -37,9 +37,9 @@ Always happy to talk hardware, PCBs or FPGA stuff — feel free to reach out.
 
 ## 🛠️ Tools I use
 
-- **EDA:** KiCAD, EasyEDA — 3+ years of schematics, layout, footprints
+- **EDA:** KiCAD, EasyEDA: 3+ years of schematics, layout, footprints
 - **Firmware:** C, C++, embedded C, ESP-IDF, STM32
-- **FPGA:** SystemVerilog — Quartus Prime and ModelSim
+- **FPGA:** SystemVerilog, Quartus Prime and ModelSim
 - **CAD:** Fusion 360
 
 ## 📫 Get in touch
