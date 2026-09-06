@@ -13,9 +13,10 @@ I have been designing boards for about 3 years now, everything from a Battery Ma
 
 ## 🔨 Currently working on
 
+- Out of order x86 processor 
 - A UDP market data feed handler on FPGA; parsing exchange multicast feeds and building the order book directly in hardware for low latency processing.
 - A new NFC business card powered by an STM32 which can play flappy bird on a custom 8x8 Led Matrix.
-- Reading a book on operating systems covering concurrency, persistence and virtualisation to better understand RTOS and embedded systems.
+- Reading a book on operating systems covering concurrency, persistence and virtualisation to better understand RTOS and embedded systems. Also reading "Computer Organization and Design RISC-V Edition".
   
 ## 📌 Featured projects
 
