@@ -21,7 +21,7 @@ I have been designing boards for about 3 years now, everything from a Battery Ma
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Jane Street ASIC reverse engineering](https://github.com/Vertrex-star/jane-street-challenge)** | Reverse engineered a Jane Street puzzle ASIC starting from a raw GDS layout — extracted the netlist, hand-built every standard cell in Verilog, spatially clustered ~700 gates, and used a SAT solver to derive the winning 122-bit input sequence. | Verilog, Python, SAT, Quartus Prime, ModelSim |
+| **[Jane Street ASIC reverse engineering](https://github.com/Vertrex-star/jane-street-challenge)** | Reverse engineered a Jane Street puzzle ASIC starting from a raw GDS layout; extracted the netlist, built every standard cell in Verilog, spatially clustered ~700 gates, and used a SAT solver to derive the winning 122 bit input sequence. | Verilog, Python, SAT, Quartus Prime, ModelSim |
 | **Hippos Exoskeletons** | Redesigned their Battery Management System — 60% smaller PCB with added protection features. Also did the MCU/IMU boards, overall hardware topology and IMU firmware. | KiCAD, ESP-IDF, embedded C |
 | **Flipper Zero reverse engineering** | Two months and ~80 pages of documentation covering superheterodyne receivers, FM/AM/IQ modulation, SDR principles and the STM32 at its core. Learned a lot about EMI, impedance matching and why 4–6 layer boards exist. | STM32, SDR |
 | **[UCL Combat Robotics — Team Artemis](https://www.hackster.io/Vertrex/combat-robotics-team-artemis-b70139)** | PCB for our antweight combat robot (150g, 100mm cube limit). Six-layer stackup with dedicated power/ground planes around an ESP32-MINI-1, kept compact but still hand-solderable with 0805 parts. | ESP32, KiCAD |
