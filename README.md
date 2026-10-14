@@ -11,14 +11,12 @@ I have been designing boards for about 3 years now, everything from a Battery Ma
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-F57C00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-1E8449?style=for-the-badge&logo=v&logoColor=white)
 
-## 🔨 Currently working on
+## Currently working on
 
 - Out of order x86 processor 
-- A UDP market data feed handler on FPGA; parsing exchange multicast feeds and building the order book directly in hardware for low latency processing.
 - A new NFC business card powered by an STM32 which can play flappy bird on a custom 8x8 Led Matrix.
-- Reading a book on operating systems covering concurrency, persistence and virtualisation to better understand RTOS and embedded systems. Also reading "Computer Organization and Design RISC-V Edition".
   
-## 📌 Featured projects
+## Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -31,14 +29,14 @@ I have been designing boards for about 3 years now, everything from a Battery Ma
 | **[How to make an Arduino](https://www.hackster.io/Vertrex/how-to-make-an-arduino-8a2955)** | Built a DIY Arduino from scratch around a bare ATmega328 PU; burning the bootloader, getting the FT232R talking to the chip, and writing up a full guide on how it all works. | ATmega328, FT232R |
 | **[RC plane](https://www.hackster.io/Vertrex/rc-plane-project-9ee7b1) + 5 axis robot arm** | Custom transmitter/receiver boards with nRF24L01, and a 3D printed robot arm with torque analysis done in CAD before printing. | Arduino, Fusion 360 || **[Microprocessor Basic ISA](https://github.com/Vertrex-star/Microprocessor-basic-ISA)** | Single cycle 8 bit microprocessor with a custom 10 instruction ISA (and/or/add/sub, andi/ori/addi, beq). Built the ALU, register file, instruction memory, control unit, and PC/branch logic from scratch, with self-checking ModelSim testbenches. | Verilog, Quartus Prime, ModelSim |
 
-## 🛠️ Tools I use
+## Tools I use
 
 - **EDA:** KiCAD, EasyEDA: 3+ years of schematics, layout, footprints
 - **Firmware:** C, C++, embedded C, ESP-IDF, STM32
 - **FPGA:** SystemVerilog, Quartus Prime and ModelSim
 - **CAD:** Fusion 360
 
-## 📫 Get in touch
+## Get in touch
 
 [![Email](https://img.shields.io/badge/Email-paulvincentbezzina%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulvincentbezzina@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_Vincent_Bezzina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulvincentbezzina)
